@@ -1,0 +1,6 @@
+﻿  mouse_movement.cpp
+c:\users\guy92\documents\visual studio 2015\projects\mouse_movement\mouse_movement\mouse_movement.cpp(27): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\guy92\documents\visual studio 2015\projects\mouse_movement\mouse_movement\mouse_movement.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\guy92\documents\visual studio 2015\projects\mouse_movement\mouse_movement\mouse_movement.cpp(66): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mouse_movement.vcxproj -> c:\users\guy92\documents\visual studio 2015\Projects\mouse_movement\Debug\mouse_movement.exe
+  mouse_movement.vcxproj -> c:\users\guy92\documents\visual studio 2015\Projects\mouse_movement\Debug\mouse_movement.pdb (Full PDB)
